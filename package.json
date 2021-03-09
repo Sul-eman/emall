@@ -1,0 +1,22 @@
+{
+  "name": "emall",
+  "version": "1.0.0",
+  "description": "An app to fulfill all your shopping needs without the hassle that comes from brick-and-mortar stores.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sul-eman/emall.git"
+  },
+  "author": "Suleman Saleem",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sul-eman/emall/issues"
+  },
+  "homepage": "https://github.com/Sul-eman/emall#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
